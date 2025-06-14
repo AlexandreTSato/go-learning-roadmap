@@ -10,7 +10,7 @@ Este repositório tem como objetivo organizar e documentar minha evolução prá
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|--------------|
-| [go-study-grpc-rabbitmq](https://github.com/seuuser/go-study-grpc-rabbitmq) | Projeto com gRPC + RabbitMQ + Docker simulando chamadas assíncronas em microsserviços | Go, gRPC, RabbitMQ, Docker |
+| [go-study-grpc-rabbitmq]([https://github.com/seuuser/go-study-grpc-rabbitmq](https://github.com/AlexandreTSato/go-grpc-rab-bitmq-docker)) | Projeto com gRPC + RabbitMQ + Docker simulando chamadas assíncronas em microsserviços | Go, gRPC, RabbitMQ, Docker |
 
 
 ---
@@ -38,5 +38,5 @@ Este repositório tem como objetivo organizar e documentar minha evolução prá
 
 ## 📞 Contato
 
-Conecte-se comigo no [LinkedIn](www.linkedin.com/in/atsato) para acompanhar minha evolução!
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/atsato) para acompanhar minha evolução!
 
