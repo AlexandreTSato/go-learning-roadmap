@@ -11,6 +11,7 @@ Este repositório tem como objetivo organizar e documentar minha evolução prá
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|--------------|
 | [go-study-grpc-rabbitmq](https://github.com/AlexandreTSato/go-grpc-rab-bitmq-docker) | Projeto com gRPC + RabbitMQ + Docker simulando chamadas assíncronas em microsserviços | Go, gRPC, RabbitMQ, Docker |
+| [go-study-grpc-azure](https://github.com/AlexandreTSato/go-grpc-azure) | Projeto com gRPC + Azure Service Bus + Azure Container Apps simulando chamadas assíncronas em microsserviços | Go, gRPC, Cloud Azure |
 
 
 ---
@@ -26,13 +27,15 @@ Este repositório tem como objetivo organizar e documentar minha evolução prá
   - `Mensageria assíncrona`
   - `Boas práticas de arquitetura`
   - `Concorrência com goroutines e channels`
+  - `Cloud Azure`
 
 ---
 
 ## 🧠 Próximos passos
 
 - ✅ gRPC com RabbitMQ (finalizado)
-- ⏳ Integração com bancos de dados (PostgreSQL e MongoDB)
+- ✅ gRPC com Azure Service Bus + Azure Container Apps (finalizado)
+- ⏳ Integração com bancos de dados 
 
 ---
 
